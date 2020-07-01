@@ -1,0 +1,22 @@
+html {
+  min-height: 100%;
+}
+body {
+  background: linear-gradient(to bottom right, royalblue, #04a6eb, rgba(65, 201, 225, 0.904), #fdffff);
+  color: #fdffff;
+  font-family: 'Times New Roman', Times, serif;
+  width: 500px;
+  margin-right: auto;
+  margin-left: auto;
+}
+button {
+  padding: 5px 20px;
+  color: #04a6eb;
+  background-color: #fdffff;
+  font-family: 'Times New Roman', Times, serif;
+  border-style: none;
+}
+input {
+  height: 29px;
+  border-style: none;
+}
