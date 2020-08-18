@@ -125,7 +125,7 @@ userNameInput.onkeydown = event => {
 
 console.assert(
   assessment('suis') ===
-  'suisのいいところは感受性です。suisが感じたことに皆が共感し、わかりあうことができます。',
+  'suisのいいところは情熱です。suisの情熱に周りの人は感化されます。',
   '診断結果の文言の特定の部分を名前に置き換える処理が正しくありません。'
 );
 
